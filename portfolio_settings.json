@@ -12,13 +12,5 @@
     "linkedin": "https://www.linkedin.com/in/salmanaqeel95/"
   },
   "themeColor": "#0066ff",
-  "testimonials": [
-    {
-      "id": 1772944617964,
-      "name": "John Doe",
-      "role": "CEO",
-      "text": "For Testing",
-      "image": ""
-    }
-  ]
+  "testimonials": []
 }
